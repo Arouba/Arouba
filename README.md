@@ -10,7 +10,7 @@ I'm a Data Analyst based in London, United Kingdom. At present, I am working in 
 Co-Founder and Board Member at the NHS Python Community. The NHS Python Community is lead by enthusiasts and advocates, and is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.
 
 ### [NHS App Analytics Dashboard](https://github.com/nhsx/nhs-app-analytics-dashboard) 
-This dashboard enables Analysts working in health and care to monitor the adoption and uptake of the [NHS App](https://www.nhs.uk/nhs-services/online-services/nhs-app/). We've improved accessibility by adhering to guidlines so that more individuals can benefit from the value of the dashboard.
+Co-developer of the NHS App Dashboard (v1.4). This dashboard enables Analysts working in health and care to monitor the adoption and uptake of the [NHS App](https://www.nhs.uk/nhs-services/online-services/nhs-app/). We've improved accessibility by adhering to guidlines so that more individuals can benefit from the value of the dashboard.
  
 ### [NHS AI Lab: Data Lens](https://github.com/nhsx/skunkworks-data-lens)
 The Data Lens project involves creating a universal search engine for health and social care data catalogues and metadata, using NLP and other AI Technologies.
