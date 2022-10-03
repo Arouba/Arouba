@@ -1,6 +1,7 @@
 ### Hi there, I'm Arouba 👋
 
-I'm a Data Analyst based in London, United Kingdom. At present, I am working in the [NHSX Analytics Unit](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/"), across the data engineering, economics, and analytics teams to help drive the digital transformation of the NHS and social care. 
+I'm a Data Analyst based in London, United Kingdom. At present, I am working in [Global Data](https://www.bloomberg.com/company/careers/working-here/global-data/") at Bloomberg. 
+Prior to this, I worked in the NHSX Analytics Unit, across the data engineering, economics, and analytics teams to help drive the digital transformation of the NHS and social care.
 
 
 
